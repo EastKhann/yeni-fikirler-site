@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://eastkhann.github.io/yeni-fikirler-site/sitemap.xml
